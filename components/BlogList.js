@@ -12,8 +12,8 @@ export default function BlogList({post}) {
                 <p class="text-sm text-gray-600">{post.date}</p>
                 </div>
                     <div class="p-4 border-t border-gray-200">
-                        <h5>Summary</h5>
-                        <p class="text-sm text-gray-700">{post.summary}</p>
+                        <h5 className="text-l font-semibold mb-2">Summary</h5>
+                        <p class="text-sm text-gray-700 text-wrap">{post.summary}</p>
                     </div>
             </div>
             </div>

@@ -10,7 +10,7 @@ summary: "The Only Way to Be Confident"
 # My First Blog
 
 
-**How** are you supposed to be confident about something when you have nothing to feel confident about?
+How are you supposed to be confident about something when you have nothing to feel confident about?
 
 Like, how are you supposed to be confident at your new job if you’ve never done this type of work before? Or how are you supposed to be confident in social situations when no one has ever liked you before? Or how are you supposed to be confident in your relationship when you’ve never been in a successful relationship before?
 

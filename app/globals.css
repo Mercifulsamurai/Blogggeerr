@@ -5,5 +5,10 @@
 
 *{
   font-family: "Roboto", sans-serif;
-  font-weight: 100;
+  font-weight: 400;
+} 
+@layer base {
+  h1 {
+    @apply text-3xl;
+  }
 }
